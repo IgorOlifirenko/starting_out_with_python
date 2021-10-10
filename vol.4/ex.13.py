@@ -1,5 +1,8 @@
-for i in range(6):
-    print("#", end='')
-    for j in range(i):
-        print(" ", end='')
-    print("#")
+def half(number):
+    return number / 2
+
+
+rand = random_func()
+
+print(rand)
+
